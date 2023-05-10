@@ -44,7 +44,3 @@
   N'hésitez pas à me contacter pour tout projet ou collaboration.
 </p>
 
-<!-- LICENSE -->
-<p align="center">
-  Ce projet est sous licence [votre licence]. Voir le fichier `LICENSE` pour plus de détails.
-</p>
