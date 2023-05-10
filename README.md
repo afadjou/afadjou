@@ -1,33 +1,36 @@
-# [Votre Nom]
+# Bienvenue sur mon profil GitHub
 
-## Introduction
+Je suis un développeur Web Full Stack en alternance et je suis passionné par la création de solutions innovantes pour les besoins des utilisateurs. Je suis compétent dans les technologies suivantes :
 
-Bonjour, je suis [Votre Nom], un développeur passionné qui aime travailler avec les technologies suivantes :
+## Langages
 
-- ![Java Logo](https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png) Java
-- ![Angular Logo](https://angular.io/assets/images/logos/angular/angular.png) Angular
-- ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) Python
-- ![PHP Logo](https://www.php.net/images/logos/php-logo.svg) PHP
-- ![Symfony Logo](https://symfony.com/images/logos/header-logo.svg) Symfony
-- ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) JavaScript
-- ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/CSS3_logo_and_wordmark.svg) CSS
-- ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML
-- ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png) MySQL
-- ![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png) MongoDB
-- ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) Git
-- ![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_black.png) Firebase
+![Java Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Angular Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
+![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![PHP Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+![Symfony Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg)
+![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![CSS Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![HTML Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+
+## Bases de données
+
+![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![MongoDB Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+
+## Outils de développement
+
+![Git Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![Firebase Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
 
 ## Statistiques
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Votre Nom]&show_icons=true)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Votre Nom])
+[![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Réseaux sociaux
 
-Retrouvez-moi sur les réseaux sociaux suivants :
+[![Instagram Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://www.instagram.com/votre_nom_utilisateur/)
+[![LinkedIn Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/votre_nom_utilisateur/)
+[![Facebook Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://www.facebook.com/votre_nom_utilisateur/)
 
-- ![Instagram Logo](https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png) [Instagram](https://www.instagram.com/[Votre Nom]/)
-- ![LinkedIn Logo](https://www.linkedin.com/favicon.ico) [LinkedIn](https://www.linkedin.com/in/[Votre Nom]/)
-- ![Facebook Logo](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico) [Facebook](https://www.facebook.com/[Votre Nom]/)
-
-N'hésitez pas à me contacter si vous avez des questions ou des projets à me proposer !
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets futurs.
