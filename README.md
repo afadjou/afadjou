@@ -1,30 +1,50 @@
-# Bienvenue sur mon profil GitHub !
+<!-- LOGO -->
+<p align="center">
+  <img src="https://i.imgur.com/logo.png" alt="Logo">
+</p>
 
-## Présentation
+<!-- TITLE -->
+<h1 align="center">Mon Profil GitHub</h1>
 
-Je m'appelle Anlim, je suis développeur(se) et je maîtrise les langages et technologies suivants :
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-brightgreen.svg" alt="Java">
+  <img src="https://img.shields.io/badge/Angular-Intermediate-yellow.svg" alt="Angular">
+  <img src="https://img.shields.io/badge/Python-Expert-brightgreen.svg" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-Intermediate-yellow.svg" alt="PHP">
+  <img src="https://img.shields.io/badge/Symfony-Intermediate-yellow.svg" alt="Symfony">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-brightgreen.svg" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS-Intermediate-yellow.svg" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML-Expert-brightgreen.svg" alt="HTML">
+  <img src="https://img.shields.io/badge/MySQL-Expert-brightgreen.svg" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow.svg" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-Expert-brightgreen.svg" alt="Git">
+  <img src="https://img.shields.io/badge/Firebase-Intermediate-yellow.svg" alt="Firebase">
+</p>
 
-- Java ![Java logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- Angular ![Angular logo](https://img.icons8.com/color/48/000000/angularjs.png)
-- Python ![Python logo](https://img.icons8.com/color/48/000000/python.png)
-- PHP ![PHP logo](https://img.icons8.com/officel/40/000000/php-logo.png)
-- Symfony ![Symfony logo](https://img.icons8.com/color/48/000000/symfony.png)
-- JavaScript ![JavaScript logo](https://img.icons8.com/color/48/000000/javascript.png)
-- CSS ![CSS logo](https://img.icons8.com/color/48/000000/css3.png)
-- HTML ![HTML logo](https://img.icons8.com/color/48/000000/html-5.png)
-- MySQL ![MySQL logo](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-- MongoDB ![MongoDB logo](https://img.icons8.com/color/48/000000/mongodb.png)
-- Git ![Git logo](https://img.icons8.com/color/48/000000/git.png)
-- Firebase ![Firebase logo](https://img.icons8.com/color/48/000000/firebase.png)
+<!-- INTRO -->
+<p align="center">
+  Salut! Je suis [votre nom], un développeur passionné avec des compétences dans plusieurs langages de programmation tels que Java, Angular, Python, PHP, Symfony, JavaScript, CSS, HTML, MySQL et MongoDB. 
+</p>
 
-Je suis passionné(e) par la programmation et j'aime explorer de nouveaux langages et outils pour améliorer mes compétences.
+<!-- CONTACT -->
+<p align="center">
+  Vous pouvez me suivre sur mes réseaux sociaux pour être informé des dernières nouvelles de mes projets :
+</p>
 
-## Contact
+<!-- SOCIAL -->
+<p align="center">
+  <a href="https://www.instagram.com/"><img src="https://i.imgur.com/instagram.png" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/"><img src="https://i.imgur.com/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/"><img src="https://i.imgur.com/facebook.png" alt="Facebook"></a>
+</p>
 
-Vous pouvez me contacter sur les réseaux sociaux suivants :
+<!-- FOOTER -->
+<p align="center">
+  N'hésitez pas à me contacter pour tout projet ou collaboration.
+</p>
 
-- [lardoben](https://www.instagram.com/lardoben/) ![Instagram logo](https://img.icons8.com/color/48/000000/instagram-new.png)
-- [Anlim Fadjou Bacar](lien vers votre profil LinkedIn) ![LinkedIn logo](https://img.icons8.com/color/48/000000/linkedin.png)
-- [Anlim Fadjou Bacar](lien vers votre profil Facebook) ![Facebook logo](https://img.icons8.com/color/48/000000/facebook.png)
-
-N'hésitez pas à me suivre pour rester informé(e) de mes dernières mises à jour et projets.
+<!-- LICENSE -->
+<p align="center">
+  Ce projet est sous licence [votre licence]. Voir le fichier `LICENSE` pour plus de détails.
+</p>
