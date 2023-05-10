@@ -3,44 +3,35 @@
   <img src="https://i.imgur.com/logo.png" alt="Logo">
 </p>
 
-<!-- TITLE -->
-<h1 align="center">Mon Profil GitHub</h1>
+<!-- INTRODUCTION -->
+## Qui suis-je?
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-brightgreen.svg" alt="Java">
-  <img src="https://img.shields.io/badge/Angular-Intermediate-yellow.svg" alt="Angular">
-  <img src="https://img.shields.io/badge/Python-Expert-brightgreen.svg" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-Intermediate-yellow.svg" alt="PHP">
-  <img src="https://img.shields.io/badge/Symfony-Intermediate-yellow.svg" alt="Symfony">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-brightgreen.svg" alt="JavaScript">
-  <img src="https://img.shields.io/badge/CSS-Intermediate-yellow.svg" alt="CSS">
-  <img src="https://img.shields.io/badge/HTML-Expert-brightgreen.svg" alt="HTML">
-  <img src="https://img.shields.io/badge/MySQL-Expert-brightgreen.svg" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow.svg" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-Expert-brightgreen.svg" alt="Git">
-  <img src="https://img.shields.io/badge/Firebase-Intermediate-yellow.svg" alt="Firebase">
-</p>
-
-<!-- INTRO -->
-<p align="center">
-  Salut! Je suis [votre nom], un développeur passionné avec des compétences dans plusieurs langages de programmation tels que Java, Angular, Python, PHP, Symfony, JavaScript, CSS, HTML, MySQL et MongoDB. 
-</p>
+Je suis [votre nom], un développeur passionné avec une expertise dans les langages de programmation suivants :
+<div align="center">
+  <img src="https://i.imgur.com/java.png" alt="Java Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/angular.png" alt="Angular Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/python.png" alt="Python Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/php.png" alt="PHP Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/symfony.png" alt="Symfony Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/javascript.png" alt="JavaScript Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/css.png" alt="CSS Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/html.png" alt="HTML Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/mysql.png" alt="MySQL Logo" width="50px" height="50px">
+  <img src="https://i.imgur.com/mongodb.png" alt="MongoDB Logo" width="50px" height="50px">
+</div>
 
 <!-- CONTACT -->
-<p align="center">
-  Vous pouvez me suivre sur mes réseaux sociaux pour être informé des dernières nouvelles de mes projets :
-</p>
-
-<!-- SOCIAL -->
-<p align="center">
-  <a href="https://www.instagram.com/"><img src="https://i.imgur.com/instagram.png" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/"><img src="https://i.imgur.com/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/"><img src="https://i.imgur.com/facebook.png" alt="Facebook"></a>
-</p>
+## Me contacter
+Vous pouvez me contacter sur les réseaux sociaux suivants :
+<div align="center">
+  <a href="https://www.instagram.com/"><img src="https://i.imgur.com/instagram.png" alt="Instagram Logo" width="50px" height="50px"></a>
+  <a href="https://www.linkedin.com/"><img src="https://i.imgur.com/linkedin.png" alt="LinkedIn Logo" width="50px" height="50px"></a>
+  <a href="https://www.facebook.com/"><img src="https://i.imgur.com/facebook.png" alt="Facebook Logo" width="50px" height="50px"></a>
+</div>
 
 <!-- FOOTER -->
-<p align="center">
-  N'hésitez pas à me contacter pour tout projet ou collaboration.
-</p>
+## Projets
+N'hésitez pas à consulter mes projets sur mon profil GitHub.
 
+## Licence
+Ce projet est sous licence [votre licence]. Voir le fichier `LICENSE` pour plus de détails.
