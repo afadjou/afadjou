@@ -1,37 +1,40 @@
-<!-- LOGO -->
-<p align="center">
-  <img src="https://i.imgur.com/logo.png" alt="Logo">
-</p>
+![header](https://i.imgur.com/6MvU6pH.png)
 
-<!-- INTRODUCTION -->
-## Qui suis-je?
+# Bienvenue sur mon profil GitHub !
 
-Je suis [votre nom], un développeur passionné avec une expertise dans les langages de programmation suivants :
-<div align="center">
-  <img src="https://i.imgur.com/java.png" alt="Java Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/angular.png" alt="Angular Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/python.png" alt="Python Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/php.png" alt="PHP Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/symfony.png" alt="Symfony Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/javascript.png" alt="JavaScript Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/css.png" alt="CSS Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/html.png" alt="HTML Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/mysql.png" alt="MySQL Logo" width="50px" height="50px">
-  <img src="https://i.imgur.com/mongodb.png" alt="MongoDB Logo" width="50px" height="50px">
-</div>
+Je suis [votre nom], développeur passionné avec une solide expérience dans les langages suivants : 
 
-<!-- CONTACT -->
-## Me contacter
-Vous pouvez me contacter sur les réseaux sociaux suivants :
-<div align="center">
-  <a href="https://www.instagram.com/"><img src="https://i.imgur.com/instagram.png" alt="Instagram Logo" width="50px" height="50px"></a>
-  <a href="https://www.linkedin.com/"><img src="https://i.imgur.com/linkedin.png" alt="LinkedIn Logo" width="50px" height="50px"></a>
-  <a href="https://www.facebook.com/"><img src="https://i.imgur.com/facebook.png" alt="Facebook Logo" width="50px" height="50px"></a>
-</div>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<!-- FOOTER -->
-## Projets
-N'hésitez pas à consulter mes projets sur mon profil GitHub.
+Je suis passionné par le développement de logiciels et j'aime apprendre de nouvelles technologies pour améliorer mes compétences. 
 
-## Licence
-Ce projet est sous licence [votre licence]. Voir le fichier `LICENSE` pour plus de détails.
+## Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre nom&show_icons=true&count_private=true)
+
+## Mes projets
+
+- [Nom du projet 1](lien du projet)
+- [Nom du projet 2](lien du projet)
+- [Nom du projet 3](lien du projet)
+
+## Mes réseaux sociaux
+
+N'hésitez pas à me contacter ou à me suivre sur mes réseaux sociaux : 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](lien Instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](lien LinkedIn)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](lien Facebook)
+
+Merci d'avoir visité mon profil !
