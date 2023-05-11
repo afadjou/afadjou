@@ -1,12 +1,11 @@
-# Développeur Web Full Stack
+# Développeur Web Full Stack en Alternance
 
 ## A propos de moi
 
-Je suis un développeur web full-stack en alternance avec une passion pour la création d'applications web innovantes. J'ai une expérience de travail avec des technologies de pointe telles que Java, Angular, Python, PHP, Symfony, JavaScript, CSS, HTML, mySQL, MongoDB, Git et Firebase. Mon objectif principal est de fournir des solutions logicielles de haute qualité qui répondent aux besoins de mes clients et utilisateurs finaux.
-
+Je suis un développeur web full-stack en alternance avec une passion pour la création d'applications web innovantes. J'ai une expérience de travail avec des technologies de pointe telles que Java, Angular, Python, PHP, Symfony, JavaScript, CSS, HTML, mySQL, MongoDB, Git et Firebase.
 ## Statistiques
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afadjou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Langages de programmation
 
@@ -25,6 +24,6 @@ Je suis un développeur web full-stack en alternance avec une passion pour la cr
 
 ## Réseaux sociaux
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/votre_nom_utilisateur/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre_nom_utilisateur/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/votre_nom_utilisateur/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=fr)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com)
