@@ -1,9 +1,12 @@
 # Développeur Web Full Stack en Alternance
 
-## A propos de moi
+## About Me
 
-Je suis un développeur web full-stack en alternance avec une passion pour la création d'applications web innovantes. J'ai une expérience de travail avec des technologies de pointe telles que Java, Angular, Python, PHP, Symfony, JavaScript, CSS, HTML, mySQL, MongoDB, Git et Firebase.
-## Statistiques
+I am a passionate and motivated full stack web developer with experience in several programming languages and frameworks. I am currently pursuing an alternate training program in web development
+
+### Skills
+- **Languages:** Java, Angular, Python, PHP, Symfony, JavaScript, CSS, HTML, MySQL, MongoDB
+- **Version Control:** Git, Firebase
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afadjou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
